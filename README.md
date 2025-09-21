@@ -6,7 +6,7 @@
 ***PRAD**: Periapical Radiograph Analysis Dataset and Benchmark Model Development (MICCAI 2025 Poster)*
 ---
 <div align="center">
-  <img src="PRADlogo.jpg" style="width:70%; max-width:800px;">
+  <img src="./figs/PRADlogo.jpg" style="width:70%; max-width:800px;">
 </div>
 
 ## 📜 Table of contents：
@@ -21,5 +21,17 @@
 ## 📣 Introduction
 
 <div align="center">
-  <img src="PRADlogo.jpg" style="width:70%; max-width:800px;">
+  <img src="./figs/data.jpg" style="width:90%; max-width:800px;">
 </div>
+
+**PRAD** is a large-scale periapical radiograph segmentation dataset, annotated and verified by two endodontists with over 10 years of clinical experience. It provides **nine anatomical-level segmentation labels**, including:
+- Tooth
+- Alveolar Bone (AB)
+- Pulp
+- Root Canal Filling (RCF)
+- Denture Crown (DC)
+- Dental Fillings (DF)
+- Implant (IM)
+- Orthodontic Devices (OD)
+- Apical Periodontitis (AP)
+  
