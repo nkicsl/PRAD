@@ -1,5 +1,5 @@
 # Periapical Radiograph Analysis Dataset (PRAD) 🦷💻️🩻
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/license-CC-BY-NC-blue.svg)](./LICENSE)
 [![Model](https://img.shields.io/badge/Model-PRNet-green.svg)](#-model)
 [![Dataset](https://img.shields.io/badge/Dataset-PRAD-red.svg)](#-PRAD-Dataset)
 
@@ -76,7 +76,7 @@ To use **PRNet**, locate the `class PRNet(nn.Module):` in the [`model.py`](./mod
 
 ## 🗓️ To do list
 - 🔲 MM-PRAD: A multimodal PRAD dataset with textual descriptions is currently under development. (Expected to be released later！)
-- 🔲 Develope dHyperPRNet to perform end-to-end segmentation and classification tasks on PRAD. (Coming soon!🔥🔥)
+- 🔲 Developed HyperPRNet to perform end-to-end segmentation and classification tasks on PRAD. (Coming soon!🔥🔥)
 - 🔲 Release the multi-label classification annotations of PRAD. (Coming soon!🔥🔥)
 - ✅ Release the codes of PRNet.
 - ✅ Release the PRAD Dataset.
