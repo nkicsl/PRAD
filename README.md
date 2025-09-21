@@ -88,7 +88,7 @@ To use **PRNet**, locate the `class PRNet(nn.Module):` in the [`model.py`](./mod
 ---
 
 ## 📌 Citation
-If you find our work helpful, please cite us:  
+If you find our work helpful, please star this repository and cite our paper:  
 
 ```bibtex
 @article{zhou2025prad,
