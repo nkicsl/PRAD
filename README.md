@@ -69,7 +69,7 @@ Due to copyright and commercial considerations, **the PRAD dataset will be parti
   <img src="./figs/result.jpg" style="width:85%; max-width:800px;">
 </div>
 
-To use **PRNet**, locate the `class PRNet(nn.Module):` in the `model.py` file of the repository, modify the model parameters as needed, and then easily integrate it into your training code for training and evaluation.
+To use **PRNet**, locate the `class PRNet(nn.Module):` in the [`model.py`](./model.py) file of the repository, modify the model parameters as needed, and then easily integrate it into your training code for training and evaluation.
 
 ---
 
