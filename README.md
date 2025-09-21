@@ -14,7 +14,7 @@
 - [News](#-news)
 - [PRAD Dataset](#-prad-dataset)
 - [Model](#-model)
-- [Pending Work](#-Pending-Work)
+- [Pending Work](#-pending-work)
 - [Citation](#-citation)
 
 ---
