@@ -41,6 +41,7 @@
 ---
 
 ## 📣 News
+
 - **[2025-09-21]** The codes of benchmark model PRNet has been released!
 - **[2025-09-20]** The PRAD dataset is now officially open for public application. You are welcome to use it!
 - **[2025-08-30]** All review and revision work for the PRAD dataset has been completed. Congratulations!
@@ -74,7 +75,8 @@ To use **PRNet**, locate the `class PRNet(nn.Module):` in the [`model.py`](./mod
 
 ---
 
-## To do list
+## 🗓️ To do list
+
 - 🔲 MM-PRAD: A multimodal PRAD dataset with textual descriptions is currently under development. (Expected to be released later！)
 - 🔲 Developed HyperPRNet to perform end-to-end segmentation and classification tasks on PRAD. (Coming soon!🔥🔥)
 - 🔲 Release the multi-label classification annotations of PRAD. (Coming soon!🔥🔥)
