@@ -10,12 +10,12 @@
 </div>
 
 ## 📜 Table of contents：
-- [Introduction](#-introduction)
-- [News](#-news)
-- [PRAD Dataset](#-PRAD-Dataset)
-- [Model](#-model)
-- [To do list](#-to-do-list)
-- [Citation](#-citation)
+- [Introduction](#introduction)
+- [News](#news)
+- [PRAD Dataset](#prad-dataset)
+- [Model](#model)
+- [To do list](#to-do-list)
+- [Citation](#citation)
 
 ---
 
