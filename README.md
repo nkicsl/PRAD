@@ -1,5 +1,5 @@
 # Periapical Radiograph Analysis Dataset (PRAD) 🦷💻️🩻
-[![License](https://img.shields.io/badge/license-CC-BY-NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Model](https://img.shields.io/badge/Model-PRNet-green.svg)](#-model)
 [![Dataset](https://img.shields.io/badge/Dataset-PRAD-red.svg)](#-PRAD-Dataset)
 
