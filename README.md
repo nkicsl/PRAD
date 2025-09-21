@@ -12,9 +12,9 @@
 ## 📜 Table of contents：
 - [Introduction](#-introduction)
 - [News](#-news)
-- [PRAD Dataset](#-dataset)
+- [PRAD Dataset](#-PRAD-Dataset)
 - [Model](#-model)
-- [To do list](#-to)
+- [To do list](#-To-do-list)
 - [Citation](#-citation)
 
 ---
