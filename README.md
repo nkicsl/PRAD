@@ -66,7 +66,7 @@ Due to copyright and commercial considerations, **the PRAD dataset will be parti
 </div>
 
 <div align="center">
-  <img src="./figs/result.jpg" style="width:90%; max-width:800px;">
+  <img src="./figs/result.jpg" style="width:85%; max-width:800px;">
 </div>
 
 To use **PRNet**, locate the `class PRNet(nn.Module):` in the `model.py` file of the repository, modify the model parameters as needed, and then easily integrate it into your training code for training and evaluation.
@@ -88,10 +88,10 @@ To use **PRNet**, locate the `class PRNet(nn.Module):` in the `model.py` file of
 If you find our work helpful, please cite us:  
 
 ```bibtex
-@article{oralgpt2025,
-  title={Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis},
-  author={Hao, Jing and Fan, Yuxuan and Sun, Yanpeng and Guo, Kaixin and Lin, Lizhuo and Yang, Jinrong and Ai, Qi Yong H and Wong, Lun M and Tang, Hao and Hung, Kuo Feng},
-  journal={arXiv preprint arXiv:2509.09254},
+@article{zhou2025prad,
+  title={PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development},
+  author={Zhou, Zhenhuan and Zhang, Yuchen and Xu, Ruihong and Zhao, Xuansen and Li, Tao},
+  journal={arXiv preprint arXiv:2504.07760},
   year={2025}
 }
 ```
