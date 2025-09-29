@@ -91,11 +91,13 @@ To use **PRNet**, locate the `class PRNet(nn.Module):` in the [`model.py`](./mod
 If you find our work helpful, please star this repository and cite our paper:  
 
 ```bibtex
-@article{zhou2025prad,
+@inproceedings{zhou2025prad,
   title={PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development},
   author={Zhou, Zhenhuan and Zhang, Yuchen and Xu, Ruihong and Zhao, Xuansen and Li, Tao},
-  journal={arXiv preprint arXiv:2504.07760},
-  year={2025}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={475--484},
+  year={2025},
+  organization={Springer}
 }
 ```
 ---
