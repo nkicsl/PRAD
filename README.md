@@ -78,7 +78,7 @@ To use **PRNet**, locate the `class PRNet(nn.Module):` in the [`model.py`](./mod
 ## 🗓️ Pending Work
 
 - 🔲 MM-PRAD: A multimodal PRAD dataset with textual descriptions is currently under development. (Expected to be released later！)
-- 🔲 Developed HyperPRNet to perform end-to-end segmentation and classification tasks on PRAD. (Coming soon!🔥🔥)
+- 🔲 Developed PRNet++ to perform end-to-end segmentation and classification tasks on PRAD. (Coming soon!🔥🔥)
 - 🔲 Release the multi-label classification annotations of PRAD. (Coming soon!🔥🔥)
 - ✅ Release the codes of PRNet.
 - ✅ Release the PRAD Dataset.
