@@ -9,6 +9,9 @@
   <img src="./figs/PRADlogo.jpg" style="width:70%; max-width:800px;">
 </div>
 
+***PRAD++**: Towards Robust Periapical Radiograph Analysis through Dataset and Model Advancements (IEEE TMI 2026)*
+---
+
 ## 📜 Table of contents：
 - [Introduction](#-introduction)
 - [News](#-news)
