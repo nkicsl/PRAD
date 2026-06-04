@@ -1,9 +1,10 @@
-# Periapical Radiograph Analysis Dataset (PRAD) 🦷💻️🩻
+# Periapical Radiograph Analysis Dataset (PRAD & PRAD++) 🦷💻️🩻
 [![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Model](https://img.shields.io/badge/Model-PRNet-green.svg)](#-model)
 [![Dataset](https://img.shields.io/badge/Dataset-PRAD-red.svg)](#-PRAD-Dataset)
 
 ***PRAD**: Periapical Radiograph Analysis Dataset and Benchmark Model Development (MICCAI 2025 Poster)*
+***PRAD++**: Towards Robust Periapical Radiograph Analysis through Dataset and Model Advancements (IEEE TMI 2026)*
 ---
 <div align="center">
   <img src="./figs/PRADlogo.jpg" style="width:70%; max-width:800px;">
@@ -42,6 +43,7 @@
 
 ## 📣 News
 
+- **[2026-05-29]** PRAD++, an upgraded version of PRAD, has been accepted by IEEE TMI！
 - **[2025-09-21]** The codes of benchmark model PRNet has been released!
 - **[2025-09-20]** The PRAD dataset is now officially open for public application. You are welcome to use it!
 - **[2025-08-30]** All review and revision work for the PRAD dataset has been completed. Congratulations!
