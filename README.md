@@ -1,5 +1,5 @@
 # Periapical Radiograph Analysis Dataset (PRAD Family) 🦷
-[![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+<!-- [![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)-->
 [![Model](https://img.shields.io/badge/Model-PRNet-green.svg)](#-model)
 [![Dataset](https://img.shields.io/badge/Dataset-PRAD-red.svg)](#-PRAD-Dataset)
 
@@ -103,6 +103,17 @@ If you find our work helpful, please star this repository and cite our paper:
   year={2025},
   organization={Springer}
 }
+
+@ARTICLE{zhou2026prad++,
+  author={Zhou, Zhenhuan and Zhang, Yuchen and Wang, Peng and Guan, Xiaohang and Li, Tao},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={PRAD++: Toward Robust Periapical Radiograph Analysis Through Dataset and Model Advancements}, 
+  year={2026},
+  volume={45},
+  number={8},
+  pages={4339-4350},
+  keywords={Modeling;Teeth;Dentistry;Biomedical imaging;Conferences;Labeling;Computers;Computer vision;Image segmentation;Decoding;Dental dataset;deep learning;periapical radiographs;dental image analysis},
+  doi={10.1109/TMI.2026.3698273}}
 ```
 ---
 Copyright © College of Computer Science, Nankai University. All rights reserved.
